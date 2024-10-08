@@ -13,5 +13,7 @@ This project includes more than 40 functionalities, some of the major mentioned 
 10.	It can perform some basic calculations.
 11.	It can check power left in the laptop.
 12.	You can ask any procedure on activating how to do mode.
+![GUI](https://github.com/user-attachments/assets/ea640602-3858-45e4-895a-523df22df814)
+![GUI1](https://github.com/user-attachments/assets/c8f932ce-1f21-4328-b641-7d3a8ad438c5)
 
 Now the basic question arises in mind that how it is an AI? The virtual assistant that I have created is like if it is not an A.I, but it is the output of a bundle of the statement. But fundamentally, the mail purpose of A.I machines is that it can perform human tasks with the same efficiency or even more efficiently than humans. It is a fact that my virtual assistant is not a very good example of A.I., but it is an A.I. 
